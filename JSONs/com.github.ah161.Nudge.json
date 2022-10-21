@@ -36,7 +36,7 @@
       ],
       "actionButtonPath": "munki://updates",
       "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
-      "requiredInstallationDate": "2022-10-21T11:00:00Z",
+      "requiredInstallationDate": "2022-10-21T12:00:00Z",
       "requiredMinimumOSVersion": "12.6",
       "targetedOSVersionsRule": "12"
     }
@@ -67,8 +67,8 @@
     "forceScreenShotIcon": false,
     "iconDarkPath": "/Users/Shared/Daemon Logos/Icon/Daemon_Icon_Master.png",
     "iconLightPath": "/Users/Shared/Daemon Logos/Icon/Daemon_Icon_Master.png",
-    "screenShotDarkPath": "/Users/Shared/Daemon Logos/Icon/Daemon_Icon_Blue.png",
-    "screenShotLightPath": "/Users/Shared/Daemon Logos/Icon/Daemon_Icon_Blue.png",
+    "screenShotDarkPath": "/Users/Shared/Daemon Logos/Icon/Daemon_Icon_Master.png",
+    "screenShotLightPath": "/Users/Shared/Daemon Logos/Icon/Daemon_Icon_Master.png",
     "showDeferralCount": true,
     "simpleMode": false,
     "singleQuitButton": true,
@@ -88,7 +88,7 @@
         "oneHourDeferralButtonText": "One Hour",
         "primaryQuitButtonText": "Later",
         "secondaryQuitButtonText": "I understand",
-        "subHeader": "A friendly reminder from your local IT team"
+        "subHeader": "A friendly reminder from the Daemon IT team"
       },
       {
         "_language": "es",
