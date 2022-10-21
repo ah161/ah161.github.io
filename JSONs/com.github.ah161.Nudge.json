@@ -36,8 +36,8 @@
       ],
       "actionButtonPath": "munki://updates",
       "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
-      "requiredInstallationDate": "2022-10-13T17:30:00Z",
-      "requiredMinimumOSVersion": "12.6.0",
+      "requiredInstallationDate": "2022-10-21T11:00:00Z",
+      "requiredMinimumOSVersion": "12.6",
       "targetedOSVersionsRule": "12"
     }
   ],
@@ -71,7 +71,7 @@
     "screenShotLightPath": "/Users/Shared/Daemon Logos/Icon/Daemon_Icon_Blue.png",
     "showDeferralCount": true,
     "simpleMode": false,
-    "singleQuitButton": false,
+    "singleQuitButton": true,
     "updateElements": [
       {
         "_language": "en",
