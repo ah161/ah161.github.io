@@ -67,7 +67,7 @@
     "iconDarkPath": "/Users/Shared/Daemon Logos/Icon/Daemon_Icon_Master.png",
     "iconLightPath": "/Users/Shared/Daemon Logos/Icon/Daemon_Icon_Master.png",
     "screenShotDarkPath": "/Users/Shared/Daemon Logos/Icon/Daemon_Icon_Master.png",
-    "screenShotLightPath": "/Users/Shared/Daemon Logos/Icon/Daemon_Icon_Master.png",
+    "screenShotLightPath": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Test.svg",
     "showDeferralCount": true,
     "simpleMode": false,
     "singleQuitButton": true,
