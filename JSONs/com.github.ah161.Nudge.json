@@ -4,9 +4,9 @@
     "acceptableAssertionUsage": false,
     "acceptableCameraUsage": true,
     "acceptableScreenSharingUsage": true,
-    "aggressiveUserExperience": true,
+    "aggressiveUserExperience": false,
     "aggressiveUserFullScreenExperience": false,
-    "asynchronousSoftwareUpdate": false,
+    "asynchronousSoftwareUpdate": true,
     "attemptToBlockApplicationLaunches": false,
     "attemptToFetchMajorUpgrade": true,
     "blockedApplicationBundleIDs": [],
@@ -35,9 +35,9 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-      "requiredInstallationDate": "2023-03-31T17:00:00Z",
-      "requiredMinimumOSVersion": "13.2.1",
-      "targetedOSVersionsRule": "12"
+      "requiredInstallationDate": "2023-09-15T17:00:00",
+      "requiredMinimumOSVersion": "13.5.2",
+      "targetedOSVersionsRule": "default"
     }
   ],
   "userExperience": {
